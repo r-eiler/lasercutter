@@ -26,7 +26,8 @@ Pros:
 - keine neue SW zur Einarbeitung
 
 Cons: 
-
+- ortsfest im Keller
+- Preisunterschied Lasermodul zu Stand-Alone Gerät teilweise gering (sculpfun S9: Modul  150 - 160 €, komplettgerät 220 €)
 
 ## Anforderungen
 - Arbeitsraum ca. DIN A3 (29,7 x 42 cm) oder größer
@@ -34,7 +35,7 @@ Cons:
 - Wünschenswert:
   - Offline Modus (soll auch ohne angeschlossenen Rechner Lasern können)
 
-## Bisher gefundene vollwertige Modelle
+## Bisher gefundene Stand-Alone Modelle
 ### [Atomstack S10](https://www.atomstack.net/collections/laser-engraver/products/atomstack-s10-pro-50w-laser-engraving-machine?variant=42821347606778) 
 ![](pics/s10.png)
 - Atomstack S10 wohl bis auf Farbe baugleich mit X7 und A10
