@@ -1,9 +1,15 @@
 # Lasercutter
 
 ## Geplanter Verwendungzweck
-- schneiden von nicht metallischen Werstoffen
+- schneiden von nicht metallischen Werkstoffen
   - Hauptsächlich Holz und Karton
 - gravieren Werkstoffe aller Art
+
+## Anforderungen
+- Arbeitsraum ca. DIN A3 (29,7 x 42 cm) oder größer
+- Schnitttiefe in Holz mind. 3 mm je Durchgang (Ingesammt mind. 8 mm bei mehreren Durchgängen)
+- Wünschenswert:
+  - Offline Modus (soll auch ohne angeschlossenen Rechner Lasern können)
 
 ## Bauart
 ### Stand-Alone Gerät
@@ -19,21 +25,16 @@ Cons:
 ### Lasermodul an CNC-Frase anbauen
 Pros: 
 - Fräsen und lasern in einem Arbeitsgang (zumindest ohne Neuausrichtung des Werkstückes)
-- CNC wird sinnvoll genutzt
-- ESTLCAM kann Laser ansteuern
+- CNC-Tisch wird sinnvoll genutzt
+- größerer Arbeitsraum als bei Stand-Alone Gerät inkl. Erweiterungen
+- ESTLCAM kann ohnehin schon Laser ansteuern
 - etwas günstiger als Stand-Alone Gerät
 - Kein zusätzliches Gerät das rumsteht
 - keine neue SW zur Einarbeitung
 
 Cons: 
-- ortsfest im Keller
-- Preisunterschied Lasermodul zu Stand-Alone Gerät teilweise gering (sculpfun S9: Modul  150 - 160 €, komplettgerät 220 €)
-
-## Anforderungen
-- Arbeitsraum ca. DIN A3 (29,7 x 42 cm) oder größer
-- Schnitttiefe in Holz mind. 3 mm je Durchgang (Ingesammt mind. 8 mm bei mehreren Durchgängen)
-- Wünschenswert:
-  - Offline Modus (soll auch ohne angeschlossenen Rechner Lasern können)
+- ortsfest im Keller (oder halt dort wo die CNC steht)
+- Preisunterschied Lasermodul zu Stand-Alone Gerät teilweise gering (sculpfun S9: nur Lasermodul  150 - 160 €, Komplettgerät 220 €)
 
 ## Bisher gefundene Stand-Alone Modelle
 ### [Atomstack S10](https://www.atomstack.net/collections/laser-engraver/products/atomstack-s10-pro-50w-laser-engraving-machine?variant=42821347606778) 
@@ -42,6 +43,7 @@ Cons:
 - 40 x 41 cm Bauraum
   - Erweiterung auf 40 x 80 cm für 90 € möglich
 - 10 W optische Laserleistung
+- kann auch ohne laufenden Rechner genutzt werden
 - Endschalter (wichtig für reproduzierbare Ergebnisse)
 
 #### Testberichte:
@@ -49,4 +51,19 @@ Cons:
 
 #### Preis:
 360 € [tomtop aus Lager on D](https://www.tomtop.com/de/p-os6227eu.html?_ga=2.149417270.1886502075.1668406549-2128827613.1620750406&_gac=1.61895774.1668406610.Cj0KCQiAyMKbBhD1ARIsANs7rEGIbOIaJtWY9oXyOlLVTQfMZN1alHnAqzkt551mTr96lshaxZPbbsMaAkf_EALw_wcB)
+
+
+### [Sculpfun S9](https://www.atomstack.net/collections/laser-engraver/products/atomstack-s10-pro-50w-laser-engraving-machine?variant=42821347606778) 
+![](pics/s9.png)
+- 40 x 41 cm Bauraum
+  - Erweiterung auf 40 x 80 cm für 90 € möglich
+- 5,5 W optische Laserleistung (aber scheinbar sehr gute Schnittleistung in Holz)
+
+
+#### Testberichte:
+- [Techstage](https://www.techstage.de/test/atomstack-s10-pro-im-test-starker-laser-engraver-mit-10-watt-zum-schneiden-und/zpezs8m#nav-ring-42) 
+
+#### Preis:
+222 € [tomtop aus Lager on D]([https://www.tomtop.com/de/p-os6227eu.html?_ga=2.149417270.1886502075.1668406549-2128827613.1620750406&_gac=1.61895774.1668406610.Cj0KCQiAyMKbBhD1ARIsANs7rEGIbOIaJtWY9oXyOlLVTQfMZN1alHnAqzkt551mTr96lshaxZPbbsMaAkf_EALw_wcB](https://www.tomtop.com/de/p-rtoxy-s9-eu.html))
+
 
