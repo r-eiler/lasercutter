@@ -55,13 +55,14 @@ Cons:
 
 ### [Sculpfun S9](https://www.atomstack.net/collections/laser-engraver/products/atomstack-s10-pro-50w-laser-engraving-machine?variant=42821347606778) 
 ![](pics/s9.png)
-- 40 x 41 cm Bauraum
-  - Erweiterung auf 40 x 80 cm für 90 € möglich
+- 41 x 42 cm Bauraum
+  - Erweiterung auf 41 x 95 cm für 75 € möglich
 - 5,5 W optische Laserleistung (aber scheinbar sehr gute Schnittleistung in Holz)
 
 
 #### Testberichte:
-- [Techstage](https://www.techstage.de/test/atomstack-s10-pro-im-test-starker-laser-engraver-mit-10-watt-zum-schneiden-und/zpezs8m#nav-ring-42) 
+- [3d-grenzenlos](https://www.3d-grenzenlos.de/test/lasergravierer/sculpfun-s9/) 
+- [techstage](https://www.techstage.de/test/desktop-laser-sculpfun-s9-im-test-graviert-und-schneidet-holz-bis-10-mm/xdh8dlg)
 
 #### Preis:
 222 € [tomtop aus Lager on D]([https://www.tomtop.com/de/p-os6227eu.html?_ga=2.149417270.1886502075.1668406549-2128827613.1620750406&_gac=1.61895774.1668406610.Cj0KCQiAyMKbBhD1ARIsANs7rEGIbOIaJtWY9oXyOlLVTQfMZN1alHnAqzkt551mTr96lshaxZPbbsMaAkf_EALw_wcB](https://www.tomtop.com/de/p-rtoxy-s9-eu.html))
