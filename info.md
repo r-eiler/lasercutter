@@ -54,7 +54,7 @@ Cons:
 ca. 450 € [tomtop aus Lager on D](https://www.tomtop.com/de/p-os6227eu.html?_ga=2.149417270.1886502075.1668406549-2128827613.1620750406&_gac=1.61895774.1668406610.Cj0KCQiAyMKbBhD1ARIsANs7rEGIbOIaJtWY9oXyOlLVTQfMZN1alHnAqzkt551mTr96lshaxZPbbsMaAkf_EALw_wcB)
 
 
-### #2 [Sculpfun S9](https://www.atomstack.net/collections/laser-engraver/products/atomstack-s10-pro-50w-laser-engraving-machine?variant=42821347606778) 
+### #2 Sculpfun S9 
 ![](pics/s9.png)
 - 41 x 42 cm Bauraum
   - Erweiterung auf 41 x 95 cm für 75 € möglich
@@ -66,7 +66,7 @@ ca. 450 € [tomtop aus Lager on D](https://www.tomtop.com/de/p-os6227eu.html?_g
 - [techstage](https://www.techstage.de/test/desktop-laser-sculpfun-s9-im-test-graviert-und-schneidet-holz-bis-10-mm/xdh8dlg)
 
 #### Preis:
-213 € [tomtop Blitzangebot aus Lager in D]([https://www.tomtop.com/de/p-os6227eu.html?_ga=2.149417270.1886502075.1668406549-2128827613.1620750406&_gac=1.61895774.1668406610.Cj0KCQiAyMKbBhD1ARIsANs7rEGIbOIaJtWY9oXyOlLVTQfMZN1alHnAqzkt551mTr96lshaxZPbbsMaAkf_EALw_wcB](https://www.tomtop.com/de/p-rtoxy-s9-eu.html))
+213 € [tomtop Blitzangebot aus Lager in D](https://www.tomtop.com/de/p-rtoxy-s9-eu.html)
 
 ## Kauf alleine oder mit anderen
 ### #1 Kauf alleine
